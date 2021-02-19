@@ -47,6 +47,7 @@ You can find the material for our events here:
 | **Causal inference**           | Visual Inference                                              |    [GitHub](https://github.com/SocialScienceDataLab/Visual_Inference)         |        [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/visinference/)   |           |
 |                            | Causal graphs                                                 |    [GitHub](https://github.com/SocialScienceDataLab/causal-graphs)         |           |        [YouTube](https://www.youtube.com/watch?v=sGRzQbRw2AU)   |
 | **Experiments**                | Randomized experiments and randomization inference            |    [GitHub](https://github.com/SocialScienceDataLab/randomization-inference)         |           |           |
+|                 | Potential outcomes           |    [GitHub](https://github.com/SocialScienceDataLab/potential-outcomes)         |           |           |
 | **Teaching**                   | Generate and distribute individualized exams with R/Rmarkdown |    [GitHub](https://github.com/SocialScienceDataLab/indiv-quant-exams)         |    [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/indiv-quant-exams/)       |           |
 
 
