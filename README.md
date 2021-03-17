@@ -1,4 +1,4 @@
-# Welcome to the Social Science Data Lab! 👋 <img src='DMU-logo.png' align="right" height="139" />
+# Welcome to the Social Science Data Lab! 👋 <img src='DMU-logo.png' align="right" height="200" />
 
 The Social Science Data Lab is an [event series](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/events) at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). It offers a platform for young scholars to present and discuss cutting-edge methods for the collection, management, analysis, and visualization of data in the social sciences.
 
