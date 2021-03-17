@@ -1,8 +1,8 @@
-# Welcome to the Social Science Data Lab! 👋
+# Welcome to the Social Science Data Lab! 👋 <img src='DMU-logo.png' align="right" height="139" />
 
 The Social Science Data Lab is an [event series](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/events) at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). It offers a platform for young scholars to present and discuss cutting-edge methods for the collection, management, analysis, and visualization of data in the social sciences.
 
-Organized by our [team](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/team) of members of the [MZES Data and Methods Unit](MZES Data and Methods Unit), the Social Science Data Lab hosts regular events of various formats, including input talks, roundtables, and workshops.
+Organized by our [team](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/team) of members of the [MZES Data and Methods Unit](https://www.mzes.uni-mannheim.de/d7/en/dm-unit), the Social Science Data Lab hosts regular events of various formats, including input talks, roundtables, and workshops.
 
 To create a systematic and lasting infrastructure that provides accessible and applied illustrations of the materials covered at our events, we have also founded  a blog: [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/). Our expanding collection of blog posts makes these materials available to a broader audience and provides a forum for peer discussions and mutual learning.
 
