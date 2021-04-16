@@ -15,7 +15,7 @@ You can find the material for our events here:
 |                            | Introduction to Unipark                                       |     [GitHub](https://github.com/SocialScienceDataLab/Introduction-to-Unipark-)       |           |           |
 |                            | Open Science Primer                                           |     [GitHub](https://github.com/SocialScienceDataLab/Open-Science-Primer)       |           |           |
 |                            | Remote computing services: bwCloud, bwHPC, and beyond         |     [GitHub](https://github.com/SocialScienceDataLab/remote-computing-services)       |           |      [YouTube](https://www.youtube.com/watch?v=bFsN4SHdDUk&t=28s)     |
-|                            | Git essentials        |     [GitHub](https://github.com/SocialScienceDataLab/git-essentials)       |           |         |
+|                            | Git essentials        |     [GitHub](https://github.com/SocialScienceDataLab/git-essentials)       |           |      [YouTube](https://m.youtube.com/watch?v=JS9cwCcf7DY)   |
 | **Text (and code) processing** | `knitr`                                                         |    [GitHub](https://github.com/SocialScienceDataLab/knitr)        |           |           |
 |                            | LaTeX and Overleaf                                            |     [GitHub](https://github.com/SocialScienceDataLab/LaTeX-intro)        |       [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/latex-intro/)   |           |
 | **Statistical software**       | Advances in R                                                 |      [GitHub](https://github.com/SocialScienceDataLab/advances-in-r)      |           |           |
